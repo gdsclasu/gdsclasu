@@ -1,5 +1,4 @@
 # Google Developer Student Clubs - Lagos State University
-![GitHub](https://img.shields.io/github/license/gdsclasu/gdsclasu.github.io?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gdsclasu/gdsclasu.github.io?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gdsclasu/gdsclasu.github.io?style=flat-square)
 ![GitHub deployments](https://img.shields.io/github/deployments/gdsclasu/gdsclasu.github.io/github-pages?style=flat-square)
@@ -15,7 +14,6 @@ Welcome to the official GitHub repository of the Google Developer Student Clubs 
 
 ## Meet the Core Team (2023/2024)
 The Core team is made of students passionate about Google's developer technologies and are willing to share their knowledge with others.
-- They are the ones who make everything possible!
 - They are the ones who make the magic happen!
 - They are the ones who make the community what it is today!
 - They are the dedicated students who work behind the door to make everything possible!
