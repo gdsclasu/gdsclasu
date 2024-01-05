@@ -1,4 +1,14 @@
 <h1 align="center">Google Developer Student Clubs LASU</h1>
+<p>Welcome to the official page of the Google Developer Student Clubs, Lagos State University.</p>
+<p>We're pleased to have you join our community.</p>
+<p>For new members, kindly click the link below to become a member of our chapter:</p>
+
+- https://chat.whatsapp.com/KiGTFlGEeNcCXDmGaS4O1p
+<p>And the link below to join our community on WhatsApp:</p>
+
+- https://gdsc.community.dev/lagos-state-university/
+<p>We can't wait to see you there!</p>
+
 
 <!--
 **gdsclasu/gdsclasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
