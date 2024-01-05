@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Google Developer Student Clubs LASU</h1>
 
 <!--
 **gdsclasu/gdsclasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
